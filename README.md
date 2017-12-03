@@ -1,1 +1,1 @@
-# -ModerateRestrictedYouTube
+# ModerateRestrictedYouTube
